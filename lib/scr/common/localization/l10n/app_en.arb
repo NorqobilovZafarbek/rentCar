@@ -1,0 +1,142 @@
+{
+  "companySlogan": "Our vision is to provide convenience and help increase your sales business.",
+  "searchSomethingHere": "Search something here",
+  "advertisementCardTitle1": "The Best Platform for Car Rental",
+  "advertisementCardDescr1": "Ease of doing a car rental safely and reliably. Of course at a low price.",
+  "advertisementCardTitle2": "Easy way to rent a car at a low price",
+  "advertisementCardDescr2": "Providing cheap car rental services and safe and comfortable facilities.",
+  "advertisementCardButton": "Rental Car",
+  "dashboard": "Dashboard",
+  "carRent": "Car Rent",
+  "rentNow": "Rent Now",
+  "showMoreCar": "Show more car",
+  "insight": "Insight",
+  "reimburse": "Reimburse",
+  "inbox": "Inbox",
+  "calender": "Calender",
+  "mainMenu": "Main Menu",
+  "preferences": "Preferences",
+  "settings": "Settings",
+  "helpCenter": "Help & Center",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "viewAll": "View All",
+  "logOut": "Log Out",
+  "popularCar": "Popular Car",
+  "about": "About",
+  "howItWorks": "How it works",
+  "featured": "Featured",
+  "partnership": "Partnership",
+  "businessRelation": "Business Relation",
+  "community": "Community",
+  "events": "Events",
+  "blog": "Blog",
+  "podcast": "Podcast",
+  "inviteAFriend": "Invite a friend",
+  "socials": "Socials",
+  "instagram": "Instagram",
+  "privacyPolicy": "Privacy & Policy",
+  "termsCondition": "Terms & Condition",
+  "type": "Type",
+  "capacity": "Capacity",
+  "price": "Price",
+  "typeCar": "Type Car",
+  "steering": "Steering",
+  "gasoline": "Gasoline",
+  "billingInfo": "Billing Info",
+  "billingInfoDescr": "Please enter your billing info",
+  "name": "Name",
+  "yourName": "Your name",
+  "address": "Address",
+  "yourAddress": "Your address",
+  "phoneNumber": "Phone Number",
+  "townCity": "Town / City",
+  "townOrCity": "Town or city",
+  "rentalInfo": "Rental Info",
+  "rentalInfoDescr": "Please select your rental date",
+  "pickUp": "Pick - Up",
+  "dropOff": "Drop - Off",
+  "branches": "Branches",
+  "selectYourCity": "Select your city",
+  "date": "Date",
+  "selectYourDate": "Select your date",
+  "time": "Time",
+  "selectYourTime": "Select your time",
+  "paymentMethod": "Payment Method",
+  "paymentMethodDescr": "Please enter your payment method",
+  "creditCard": "Credit Card",
+  "cardNumber": "Card Number",
+  "cardHolder": "Card Holder",
+  "expirationDate": "Expiration Date",
+  "ddmmyy": "DD / MM / YY",
+  "cvc": "CVC",
+  "payPal": "PayPal",
+  "bitcoin": "Bitcoin",
+  "confirmation": "Confirmation",
+  "confirmationDescr": "We are getting to the end. Just few clicks and your rental is ready!",
+  "agreement1": "I agree with sending an Marketing and newsletter emails. No spam, promised!",
+  "agreement2": "I agree with our terms and conditions and privacy policy.",
+  "allYourDataAreSafe": "All your data are safe",
+  "allYourDataAreSafeDescr": "We are using the most advanced security to provide you the best experience ever.",
+  "rentalSummary": "Rental Summary",
+  "rentalSummaryDescr": "Prices may change depending on the length of the rental and the price of your rental car.",
+  "subtotal": "Subtotal",
+  "tax": "Tax",
+  "applyPromoCode": "Apply promo code",
+  "applyNow": "Apply now",
+  "detailsRental": "Details Rental",
+  "totalRentalPrice": "Total Rental Price",
+  "totalRentalPriceDescr": "Overall price and includes rental discount",
+  "top5CarRental": "Top 5 Car Rental",
+  "recentTransaction": "Recent Transaction",
+  "sport": "Sport",
+  "mpv": "MPV",
+  "sedan": "Sedan ",
+  "coupe": "Coupe",
+  "hatchback": "Hatchback",
+  "step": "Step {step} of 4",
+  "@step": {
+    "placeholder": {
+      "step": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "reviewers": "{count}+ Reviewers",
+  "@reviewers": {
+    "placeholder": {
+      "count": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "day": "{price} / day",
+  "@day": {
+    "placeholder": {
+      "price": {
+        "type": "double",
+        "example": "80.00"
+      }
+    }
+  },
+  "nCapacity": "{count} People",
+  "@nCapacity": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "moreCapacity": "{count} or More",
+  "@moreCapacity": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  }
+}

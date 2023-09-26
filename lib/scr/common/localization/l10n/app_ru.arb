@@ -1,0 +1,11 @@
+{
+  "hello": "Salom {userName}",
+  "@hello": {
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Murod"
+      }
+    }
+  }
+}
