@@ -1,5 +1,5 @@
-import 'package:flutter/cupertino.dart';
 
-import 'package:rentcar/scr/common/widgets/app.dart';
+import 'package:flutter/material.dart';
+import 'package:rentcar/src/common/widgets/app.dart';
 
 void main() => runApp(const App());

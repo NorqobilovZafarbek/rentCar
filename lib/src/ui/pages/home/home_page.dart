@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:rentcar/scr/common/constants/app_images.dart';
-import '../../../common/constants/app_colors.dart';
-import '../../../common/localization/app_localizations.dart';
+import 'package:rentcar/src/common/constants/app_images.dart';
+import 'package:rentcar/src/common/constants/app_colors.dart';
+import 'package:rentcar/src/common/localization/app_localizations.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -24,7 +24,7 @@ class HomePage extends StatelessWidget {
               height: 200,
               color: AppColors.primary200,
             ),
-            SizedBox(
+            const SizedBox(
               width: 200,
               height: 200,
               child: Image(
