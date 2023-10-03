@@ -5,6 +5,11 @@ class AppLocalizationsEn extends AppLocalizations {
   AppLocalizationsEn([String locale = 'en']) : super(locale);
 
   @override
+  String hello(String userName) {
+    return 'Hello $userName';
+  }
+
+  @override
   String get companySlogan => 'Our vision is to provide convenience and help increase your sales business.';
 
   @override

@@ -29,8 +29,10 @@ class Translate extends StatelessWidget {
   });
 
   final Widget Function(
-          BuildContext context, AppLocalizations localization, Widget? child)
-      builder;
+    BuildContext context,
+    AppLocalizations l10n,
+    Widget? child,
+  ) builder;
   final Widget? child;
 
   @override
@@ -41,5 +43,5 @@ class Translate extends StatelessWidget {
 /// Widget ishlatib bo'lmaydigan kodlarda ushbu funksiya Localization uchun
 /// ishlatiladi
 ///
-AppLocalizations translate(BuildContext context) => AppLocalizations.of(context);
-
+AppLocalizations translate(BuildContext context) =>
+    AppLocalizations.of(context);

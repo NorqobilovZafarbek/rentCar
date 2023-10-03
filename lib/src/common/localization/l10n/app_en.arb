@@ -1,4 +1,13 @@
 {
+  "hello": "Hello {userName}",
+  "@hello": {
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Murod"
+      }
+    }
+  },
   "companySlogan": "Our vision is to provide convenience and help increase your sales business.",
   "searchSomethingHere": "Search something here",
   "advertisementCardTitle1": "The Best Platform for Car Rental",

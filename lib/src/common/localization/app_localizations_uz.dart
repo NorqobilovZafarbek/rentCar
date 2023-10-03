@@ -5,6 +5,11 @@ class AppLocalizationsUz extends AppLocalizations {
   AppLocalizationsUz([String locale = 'uz']) : super(locale);
 
   @override
+  String hello(String userName) {
+    return 'Salom $userName';
+  }
+
+  @override
   String get companySlogan => 'Our vision is to provide convenience and help increase your sales business.';
 
   @override

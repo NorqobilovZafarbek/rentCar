@@ -95,6 +95,12 @@ abstract class AppLocalizations {
     Locale('uz')
   ];
 
+  /// No description provided for @hello.
+  ///
+  /// In en, this message translates to:
+  /// **'Hello {userName}'**
+  String hello(String userName);
+
   /// No description provided for @companySlogan.
   ///
   /// In en, this message translates to:

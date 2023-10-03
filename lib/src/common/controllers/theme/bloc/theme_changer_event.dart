@@ -6,3 +6,5 @@ abstract class ThemeChangerEvent {}
 class DarkThemeEvent extends ThemeChangerEvent {}
 
 class LightThemeEvent extends ThemeChangerEvent {}
+
+class SystemThemeEvent extends ThemeChangerEvent {}
